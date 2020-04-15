@@ -1,0 +1,5 @@
+led 100ohm
+
+https://www.instructables.com/id/DIY-Li-Fi-Using-Arduino-Uno/
+
+ldr 1kohm

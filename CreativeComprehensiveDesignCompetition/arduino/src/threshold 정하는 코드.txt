@@ -1,0 +1,13 @@
+threshold 정하는 코드 
+
+long threshold = 0;
+const int precision = 1000;
+setup
+    for(int i = 0; i < precision; i++)
+    {
+      threshold += analogRead(sensorPin);
+    }
+    threshold = threshold / precision;
+    threshold = threshold - 15;
+    Serial.print("Threshold: ");
+    Serial.println(threshold);
