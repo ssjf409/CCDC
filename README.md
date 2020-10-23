@@ -6,7 +6,9 @@
 사용 기술 : arduino uno, exprexx(Node.js), MySQL
 
 2019 INU 창의적 종합 설계 : 금상 수상
+
 2019 INU 창업경진대회 : 최우수상 수상
+
 2019 창의적 종합설계 : 장려상 수상
 
 <br>
