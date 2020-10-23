@@ -1,17 +1,18 @@
 # CCDC
-창의적종합설계경진대회(CreativeComprehensiveDesignCompetition) 출품작
+## 창의적종합설계경진대회(CreativeComprehensiveDesignCompetition) 출품작</br></br>
 
 
 
-사용 기술 : arduino uno, exprexx(Node.js), MySQL
+### 사용 기술 : arduino uno, exprexx(Node.js), MySQL</br>
+### 2019 INU 창의적 종합 설계 : 금상 수상</br>
+### 2019 INU 창업경진대회 : 최우수상 수상</br>
+### 2019 창의적 종합설계 : 장려상 수상</br>
+</br>
+### 나의 역할</br>
+1. 빛으로 데이터를 전송하는 알고리즘 설계
+2. 빛 데이터를 아두이노로 수신 및 서버에 http통신을 이용한 데이터 요청 설계
 
-2019 INU 창의적 종합 설계 : 금상 수상
-
-2019 INU 창업경진대회 : 최우수상 수상
-
-2019 창의적 종합설계 : 장려상 수상
-
-<br>
+</br>
 
 
 <div>
